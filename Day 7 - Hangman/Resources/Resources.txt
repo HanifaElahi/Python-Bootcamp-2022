@@ -1,0 +1,7 @@
+Hangman Game : https://en.wikipedia.org/wiki/Hangman_(game)
+
+Hangman : https://hangmanwordgame.com/?fca=1&success=0#/
+
+Python Lists : https://developers.google.com/edu/python/lists#for-and-in
+
+Importing Modules : https://www.askpython.com/python/python-import-statement
