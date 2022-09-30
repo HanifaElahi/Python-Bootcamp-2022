@@ -1,0 +1,7 @@
+Black Jack : https://games.washingtonpost.com/games/blackjack
+
+Black Jack Requirements : https://listmoz.com/view/6h34DJpvJBFVRlZfJvxF
+
+Python Lists : https://developers.google.com/edu/python/lists#list-methods
+
+Python Sum Function : https://docs.python.org/3/library/functions.html#sum
