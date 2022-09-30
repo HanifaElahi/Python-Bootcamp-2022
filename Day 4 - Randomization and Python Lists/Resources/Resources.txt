@@ -1,0 +1,15 @@
+Random Number Generators : https://www.askpython.com/python-modules/python-random-module-generate-random-numbers-sequences
+
+Pseudo Random Generators : https://www.khanacademy.org/computing/computer-science/cryptography/crypt/v/random-vs-pseudorandom-number-generators
+
+Merseme Twister : https://en.wikipedia.org/wiki/Mersenne_Twister
+
+Lists : https://docs.python.org/3/tutorial/datastructures.html
+
+Convert String to List : https://www.askpython.com/python/string/convert-string-to-list-in-python
+
+Things List can do : https://docs.python.org/3/tutorial/datastructures.html
+
+Dirty Dozen Foods : https://www.delish.com/food-news/a26872638/dirty-dozen-foods-list-2019/
+
+World Rock Paper Scissors : https://wrpsa.com/

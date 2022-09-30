@@ -1,0 +1,5 @@
+BMI Index : https://en.wikipedia.org/wiki/Body_mass_index
+
+LIFE in WEEKS: https://waitbutwhy.com/2014/05/life-weeks.html
+
+FLOATING POINT ARITHMETIC : https://docs.python.org/3/tutorial/floatingpoint.html
