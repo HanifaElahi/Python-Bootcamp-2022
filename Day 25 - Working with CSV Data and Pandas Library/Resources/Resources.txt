@@ -1,0 +1,7 @@
+Pandas Documentation : https://pandas.pydata.org/docs/
+
+Pandas API : https://pandas.pydata.org/docs/reference/index.html
+
+Sporcle Game : https://www.sporcle.com/games/g/states
+
+Central Park Squirrel Census Data : https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw

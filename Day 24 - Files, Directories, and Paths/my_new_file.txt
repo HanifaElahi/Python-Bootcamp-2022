@@ -1,0 +1,10 @@
+Hi, My name is Hanifa.
+I am 23 years old.
+My favourite food is bowl of hot noodles.
+New text added using append mode.Hi, My name is Hanifa.
+I am 23 years old.
+My favourite food is bowl of hot noodles.
+New text added using append mode.Hi, My name is Hanifa.
+I am 23 years old.
+My favourite food is bowl of hot noodles.
+New text added using append mode.
