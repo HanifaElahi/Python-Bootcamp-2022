@@ -1,0 +1,11 @@
+Download Python : https://www.python.org/downloads/
+
+Install PyCharm : https://www.jetbrains.com/pycharm/download/#section=windows
+
+PEP 8 - Style Code for Python Code : https://peps.python.org/pep-0008/
+
+Add a coffee emoji from emojipedia: https://emojipedia.org/hot-beverage/
+
+Windows Keyboard shortcuts and tips : https://support.microsoft.com/en-gb/windows/windows-keyboard-tips-and-tricks-588e0b72-0fff-6d3f-aeee-6e5116097942
+
+Use emoji and symbols on Mac : https://support.apple.com/en-gb/guide/mac-help/mchlp1560/mac
