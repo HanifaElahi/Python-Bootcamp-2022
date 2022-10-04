@@ -1,6 +1,6 @@
 # Python-Bootcamp-2022
  
-## Contents: 
+## Course Content: 
 
 - [Day 1 - Working with Variables in Python to Manage Data](https://github.com/HanifaElahi/Python-Bootcamp-2022/tree/main/Day%201%20-%20Working%20with%20Variables%20in%20Python%20to%20Manage%20Data)
 - [Day 2 - Understanding Data types and How to Manipulate Strings](https://github.com/HanifaElahi/Python-Bootcamp-2022/tree/main/Day%202%20-%20Understanding%20Data%20types%20and%20How%20to%20Manipulate%20Strings)
