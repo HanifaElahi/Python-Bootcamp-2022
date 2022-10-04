@@ -65,8 +65,11 @@
 24(a). [Day 24 : Mail Merge Project](https://github.com/HanifaElahi/Python-Bootcamp-2022/tree/main/Day%2024%20-%20Files%2C%20Directories%2C%20and%20Paths/Mail%20Merge%20Project)
 24(b). [Day 24 : Snake Game 3.0](https://github.com/HanifaElahi/Python-Bootcamp-2022/tree/main/Day%2024%20-%20Files%2C%20Directories%2C%20and%20Paths/Snake%20Game%20Project)
 25. [Day 25 : US States Game](https://github.com/HanifaElahi/Python-Bootcamp-2022/tree/main/Day%2025%20-%20Working%20with%20CSV%20Data%20and%20Pandas%20Library/US%20States%20Game)
+26. 
 26(a). [US States Game 2.0](https://github.com/HanifaElahi/Python-Bootcamp-2022/tree/main/Day%2026%20-%20List%20Comprehension%20and%20NATO%20Alphabet%20Project/US%20States%20Game%202.0)
+
 26(b). [NATO Alphabet Project](https://github.com/HanifaElahi/Python-Bootcamp-2022/tree/main/Day%2026%20-%20List%20Comprehension%20and%20NATO%20Alphabet%20Project/NATO%20Alphabet%20Project)
+
 27. []()
 28. []()
 29. []()
