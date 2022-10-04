@@ -1,0 +1,3 @@
+Shape and Shape Size Method : https://docs.python.org/3/library/turtle.html#turtle.shape
+
+Write Method : https://docs.python.org/3/library/turtle.html#turtle.write
