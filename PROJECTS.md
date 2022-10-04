@@ -1,4 +1,4 @@
-## Projects:
+## PROJECTS:
 
 - [Day 1 : Brand Name Generator](https://github.com/HanifaElahi/Python-Bootcamp-2022/blob/main/Day%201%20-%20Working%20with%20Variables%20in%20Python%20to%20Manage%20Data/project_1_brand_name_generator.py)
 - [Day 2 : Tip Calculator](https://github.com/HanifaElahi/Python-Bootcamp-2022/blob/main/Day%202%20-%20Understanding%20Data%20types%20and%20How%20to%20Manipulate%20Strings/project_2_tip_calculator.py)
